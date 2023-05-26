@@ -23,10 +23,10 @@ public class SobreCargas : MonoBehaviour
         excludeList.Add(number2 = ExcludeNumber(min, max, excludeList));
         excludeList.Add(number3 = ExcludeNumber(min, max, excludeList));
 
-        textlist[0].text = stringlist[number];
+        /*textlist[0].text = stringlist[number];
         textlist[1].text = stringlist[number1];
         textlist[2].text = stringlist[number2];
-        textlist[3].text = stringlist[number3];
+        textlist[3].text = stringlist[number3];*/
     }
 
 
